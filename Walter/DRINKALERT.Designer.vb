@@ -120,8 +120,9 @@ Partial Class DRINKALERT
         Me.MinimizeBox = False
         Me.Name = "DRINKALERT"
         Me.ShowInTaskbar = False
-        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Drink Alert"
+        Me.TopMost = True
         Me.TableLayoutPanel1.ResumeLayout(False)
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()

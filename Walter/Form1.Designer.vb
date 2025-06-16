@@ -117,11 +117,11 @@ Partial Class Form1
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label3.ForeColor = System.Drawing.Color.LightCyan
-        Me.Label3.Location = New System.Drawing.Point(176, 233)
+        Me.Label3.Location = New System.Drawing.Point(161, 241)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(75, 13)
+        Me.Label3.Size = New System.Drawing.Size(104, 13)
         Me.Label3.TabIndex = 1
-        Me.Label3.Text = "WeFireU 2004"
+        Me.Label3.Text = "v1.1, WeFireU 2004"
         '
         'CheckBox1
         '
